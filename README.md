@@ -1,2 +1,2 @@
-# -CP-Cakes
-A revamp of the OG mod Cakes and Cream
+# STV CP Mods
+A revamp of the OG mods for 1.6
